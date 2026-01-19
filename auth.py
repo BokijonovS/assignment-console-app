@@ -36,7 +36,10 @@ def register_customer():
         "id": len(users) + 1,
         "username": username,
         "password": password,
-        "role": "customer"
+        "role": "customer",
+        "membership": "bronze",
+        "points": 0,
+        "cart": []
     }
 
     users.append(new_user)
