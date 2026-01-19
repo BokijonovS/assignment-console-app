@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "admin123",
+        "role": "administrator",
+        "membership": "business",
+        "points": 0,
+        "cart": []
+    },
+    {
+        "id": 2,
+        "username": "ad",
+        "password": "12",
+        "role": "customer"
+    }
+]

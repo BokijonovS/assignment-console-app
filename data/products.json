@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Blender",
+    "category": "Kitchen appliances",
+    "price": 120,
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "name": "Vacuum Cleaner",
+    "category": "Cleaning devices",
+    "price": 300,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "name": "Air Conditioner",
+    "category": "Heating and cooling devices",
+    "price": 800,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "name": "Electric Toothbrush",
+    "category": "Personal care devices",
+    "price": 60,
+    "status": "available"
+  },
+  {
+    "id": 5,
+    "name": "Smart Light",
+    "category": "Smart home devices",
+    "price": 90,
+    "status": "available"
+  }
+]

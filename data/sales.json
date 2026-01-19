@@ -1,0 +1,28 @@
+[
+    {
+        "sale_id": 1,
+        "customer_id": 2,
+        "username": "ad",
+        "items": [
+            {
+                "id": 2,
+                "name": "Vacuum Cleaner",
+                "price": 300
+            },
+            {
+                "id": 2,
+                "name": "Vacuum Cleaner",
+                "price": 300
+            },
+            {
+                "id": 2,
+                "name": "Vacuum Cleaner",
+                "price": 300
+            }
+        ],
+        "membership": "bronze",
+        "delivery_method": "delivery",
+        "total_paid": 950,
+        "date": "2026-01-19 20:33:43"
+    }
+]
