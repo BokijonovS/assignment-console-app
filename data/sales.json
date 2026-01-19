@@ -24,5 +24,21 @@
         "delivery_method": "delivery",
         "total_paid": 950,
         "date": "2026-01-19 20:33:43"
+    },
+    {
+        "sale_id": 2,
+        "customer_id": 2,
+        "username": "ad",
+        "items": [
+            {
+                "id": 1,
+                "name": "Blender",
+                "price": 120
+            }
+        ],
+        "membership": "bronze",
+        "delivery_method": "delivery",
+        "total_paid": 170,
+        "date": "2026-01-19 23:51:45"
     }
 ]
