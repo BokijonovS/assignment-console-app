@@ -13,5 +13,14 @@
         "username": "ad",
         "password": "12",
         "role": "customer"
+    },
+    {
+        "id": 3,
+        "username": "rr",
+        "password": "22",
+        "role": "customer",
+        "membership": "bronze",
+        "points": 0,
+        "cart": []
     }
 ]

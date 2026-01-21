@@ -40,5 +40,78 @@
         "delivery_method": "delivery",
         "total_paid": 170,
         "date": "2026-01-19 23:51:45"
+    },
+    {
+        "sale_id": 3,
+        "customer_id": 2,
+        "username": "ad",
+        "items": [
+            {
+                "id": 1,
+                "name": "Blender",
+                "price": 120
+            },
+            {
+                "id": 2,
+                "name": "Vacuum Cleaner",
+                "price": 300
+            },
+            {
+                "id": 3,
+                "name": "Air Conditioner",
+                "price": 800
+            },
+            {
+                "id": 4,
+                "name": "Electric Toothbrush",
+                "price": 60
+            }
+        ],
+        "membership": "bronze",
+        "delivery_method": "delivery",
+        "total_paid": 1330,
+        "date": "2026-01-20 03:00:35"
+    },
+    {
+        "sale_id": 4,
+        "customer_id": 2,
+        "username": "ad",
+        "items": [
+            {
+                "id": 3,
+                "name": "Air Conditioner",
+                "price": 800
+            },
+            {
+                "id": 2,
+                "name": "Vacuum Cleaner",
+                "price": 300
+            }
+        ],
+        "membership": "bronze",
+        "delivery_method": "delivery",
+        "total_paid": 1150,
+        "date": "2026-01-20 03:14:00"
+    },
+    {
+        "sale_id": 5,
+        "customer_id": 2,
+        "username": "ad",
+        "items": [
+            {
+                "id": 2,
+                "name": "Vacuum Cleaner",
+                "price": 300
+            },
+            {
+                "id": 3,
+                "name": "Air Conditioner",
+                "price": 800
+            }
+        ],
+        "membership": "bronze",
+        "delivery_method": "delivery",
+        "total_paid": 1150,
+        "date": "2026-01-20 03:25:13"
     }
 ]

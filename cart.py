@@ -70,12 +70,19 @@ def checkout(user):
     print(f"TOTAL: ${total}")
     print(f"Your points: {user['points']}")
 
-    use_points = input("Use points? (yes/no): ").lower()
-    if use_points == "yes":
-        used = min(user["points"], total)
-        total -= used
-        user["points"] -= used
-        print(f"Points used: {used}")
+    while True:
+        use_points = input("Use points? (yes/no): ").lower()
+        if use_points == "yes":
+            used = min(user["points"], total)
+            total -= used
+            user["points"] -= used
+            print(f"Points used: {used}")
+            break
+        elif use_points == "no":
+            break
+        else:
+            print("Invalid input")
+
 
     earned_points = int(subtotal * rules["points"])
     user["points"] += earned_points
